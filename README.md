@@ -1,7 +1,7 @@
 ## 💻 Jordan Silvério de Sousa
 **`Desenvolvedor Backend`**
 
-Sou uma profissional proativa com habilidades abrangentes em diversos setores. Tenho uma capacidade sólida de trabalho em equipe, aliada à competência e pontualidade. Estou sempre disposto a aprender e me aprimorar, buscando constantemente adquirir novos conhecimentos.
+Sou um profissional proativo com habilidades abrangentes em diversos setores. Tenho uma capacidade sólida de trabalho em equipe, aliado à competência e pontualidade. Estou sempre disposto a aprender e me aprimorar, buscando constantemente adquirir novos conhecimentos.
 
 Atualmente, sou estudante de programação, demonstrando uma paixão natural por desvendar e solucionar problemas. Minha busca incessante por conhecimento, visando não apenas aprimorar minhas habilidades profissionais, mas também meu desenvolvimento pessoal.
 
