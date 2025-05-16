@@ -125,7 +125,6 @@ Com Sales Force, MySQL, JAVA, JavaScript, Spring Boot, HTML 5, CSS, Data Visuali
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Jord-code23&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
