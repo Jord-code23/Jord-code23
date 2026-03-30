@@ -1,135 +1,67 @@
-## 💻 Jordan Silvério de Sousa
-**`Desenvolvedor Backend`**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Olá,+sou+Jordan+Silvério!;Desenvolvedor+Backend" alt="Typing SVG" />
+</div>
 
-Sou um profissional proativo com habilidades abrangentes em diversos setores. Tenho uma capacidade sólida de trabalho em equipe, aliado à competência e pontualidade. Estou sempre disposto a aprender e me aprimorar, buscando constantemente adquirir novos conhecimentos.
+<h3 align="center">Um eterno estudante apaixonado por resolver problemas através da tecnologia.</h3>
 
-Atualmente, sou estudante de programação, demonstrando uma paixão natural por desvendar e solucionar problemas. Minha busca incessante por conhecimento, visando não apenas aprimorar minhas habilidades profissionais, mas também meu desenvolvimento pessoal.
-
-Com Sales Force, MySQL, JAVA, JavaScript, Spring Boot, HTML 5, CSS, Data Visualization e Big Data.
-
-<p>
-    <a href=https://www.linkedin.com/in/jordan-silvério23>
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Jord-code23?color=E0FFFF&style=for-the-badge&labelColor=E0FFFF&logo=linke&label=Linkedin"
-        />
-    </a>
-    <a href="https://github.com/Jord-code23?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Jord-code23?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Jord-code23?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Jord-code23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jordan-silvério23" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jord-code23?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/Jord-code23?label=Seguidores&style=for-the-badge&logo=github&logoColor=white" alt="GitHub followers"/>
+  </a>
+  <a href="https://github.com/Jord-code23?tab=repositories&sort=stargazers" target="_blank">
+    <img src="https://img.shields.io/badge/Repositórios-000?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"/>
+  </a>
 </p>
 
-### 📚🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+### 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Sou um profissional **proativo** com experiência em diversos setores, o que me proporcionou uma visão ampla de negócio aliada a habilidades técnicas. Tenho sólida capacidade de trabalho em equipe, pautada por competência e pontualidade.
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
-          
-<img 
-    align="left" 
-    alt="Salesforce"
-    title="Salesforce" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg"
-/>
+Atualmente, estou focado no desenvolvimento **Backend**, unindo minha bagagem profissional à paixão por programação. Estou sempre em busca de novos desafios e conhecimento constante.
 
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+---
 
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
+### 🚀 Minhas Skills
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Jord-code23&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-code23&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
+#### **Linguagens & Backend**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </p>
+
+#### **Dados & Cloud**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL/MySQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
+</p>
+
+#### **Frontend & Tools**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Jord-code23">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jord-code23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-code23&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  </a>
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Jord-code23&color=brightgreen&style=flat-square&label=Visitas+ao+Perfil" alt="Contador de visitas"/>
+</div>
+```
