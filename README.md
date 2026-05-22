@@ -37,9 +37,7 @@ Atualmente, dedico meus estudos e projetos ao **Desenvolvimento Backend e Engenh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-</p>
-
+  
 #### **Dados & Cloud**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
@@ -51,14 +49,14 @@ Atualmente, dedico meus estudos e projetos ao **Desenvolvimento Backend e Engenh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
 ### 📂 Projetos em Destaque
-*(Dica: Linke aqui seus 2 melhores repositórios para prender a atenção do recrutador!)*
-* 🚀 **[Nome do Projeto 1](link-do-repositorio):** Descrição breve e direta do que o sistema faz (Ex: API RESTful desenvolvida em Spring Boot para controle de estoque).
-* ⚙️ **[Nome do Projeto 2](link-do-repositorio):** Descrição breve (Ex: Aplicação em Python para análise de dados e automação de processos).
+* 🚀 **[Barbearia Tech](https://github.com/Jord-code23/projeto-pim-2-semestre):** Descrição breve e direta do que o sistema faz (Ex: API RESTful desenvolvida em Spring Boot para controle de estoque).
+* ⚙️ **[Automação Simples Python](https://github.com/Jord-code23/projeto-Python):** Aplicação em Python para análise de dados e automação de processos.
 
 ---
 
