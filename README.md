@@ -55,7 +55,7 @@ Atualmente, dedico meus estudos e projetos ao **Desenvolvimento Backend e Engenh
 ---
 
 ### 📂 Projetos em Destaque
-* 🚀 **[Barbearia Tech](https://github.com/Jord-code23/projeto-pim-2-semestre):** Descrição breve e direta do que o sistema faz (Ex: API RESTful desenvolvida em Spring Boot para controle de estoque).
+* 🚀 **[Barbearia Tech](https://github.com/Jord-code23/projeto-pim-2-semestre):** Projeto da faculdade, um sistema de Barbearia com fundamentos de desenvolvimento Web Responsivo, Modelagem de Banco de Dados, Logica de Programação em C#, Engenharia de Software Aplicada.
 * ⚙️ **[Automação Simples Python](https://github.com/Jord-code23/projeto-Python):** Aplicação em Python para análise de dados e automação de processos.
 
 ---
