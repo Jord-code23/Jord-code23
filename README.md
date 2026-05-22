@@ -63,10 +63,8 @@ Atualmente, dedico meus estudos e projetos ao **Desenvolvimento Backend e Engenh
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/Jord-code23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jord-code23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub Jordan" height="180em"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-code23&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas" height="180em"/>
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jord-code23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true" alt="Estatísticas GitHub" height="180"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jord-code23&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br&hide_border=true" alt="Linguagens" height="180"/>
 </p>
 
 <div align="center">
