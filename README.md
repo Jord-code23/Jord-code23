@@ -24,7 +24,7 @@ Sou profissional da área de Tecnologia da Informação com experiência prátic
 
 Atualmente, dedico meus estudos e projetos ao **Desenvolvimento Backend e Engenharia de Software**, criando soluções robustas, APIs escaláveis e otimizando estruturas de dados. 
 
-* 🎓 Graduando em Tecnologia da Informação / Análise de Sistemas.
+* 🎓 Graduando em Análise e Desenvolvimento de Sistemas 
 * 🛠️ Prática diária com metodologias ágeis e arquitetura de software.
 
 ---
